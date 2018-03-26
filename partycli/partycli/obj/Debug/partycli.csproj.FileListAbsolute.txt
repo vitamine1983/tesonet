@@ -1,0 +1,9 @@
+c:\users\julija zylkova\source\repos\partycli\partycli\bin\Debug\partycli.exe.config
+c:\users\julija zylkova\source\repos\partycli\partycli\bin\Debug\partycli.exe
+c:\users\julija zylkova\source\repos\partycli\partycli\bin\Debug\partycli.pdb
+c:\users\julija zylkova\source\repos\partycli\partycli\obj\Debug\partycli.csprojResolveAssemblyReference.cache
+c:\users\julija zylkova\source\repos\partycli\partycli\obj\Debug\partycli.csproj.CoreCompileInputs.cache
+c:\users\julija zylkova\source\repos\partycli\partycli\obj\Debug\partycli.exe
+c:\users\julija zylkova\source\repos\partycli\partycli\obj\Debug\partycli.pdb
+c:\users\julija zylkova\source\repos\partycli\partycli\bin\Debug\Newtonsoft.Json.dll
+c:\users\julija zylkova\source\repos\partycli\partycli\bin\Debug\Newtonsoft.Json.xml

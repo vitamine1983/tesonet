@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "partycli", "partycli\partycli.csproj", "{DC7398BF-4539-4792-A1AD-D65E69047529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC7398BF-4539-4792-A1AD-D65E69047529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC7398BF-4539-4792-A1AD-D65E69047529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC7398BF-4539-4792-A1AD-D65E69047529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC7398BF-4539-4792-A1AD-D65E69047529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7CC5AA8-9207-4ED4-8C7A-241F6B4A5736}
+	EndGlobalSection
+EndGlobal
